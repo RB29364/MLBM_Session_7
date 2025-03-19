@@ -1,5 +1,5 @@
 # ui.R
-
+source("dependancies.R")
 library(shiny)
 
 ui <- fluidPage(
